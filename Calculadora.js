@@ -3,7 +3,8 @@ let funcoes =require('./Funcoes.js')
 while (true){
 
     console.log(`
-    //    ===MENU OPERAÇÕES==
+    //    =======CALCULADORA========
+    //    ===OPERAÇÕES DISPONÍVEIS==
     //    1. Soma(+)
     //    2. Subtração(-)
     //    3. Multiplicação(*)
